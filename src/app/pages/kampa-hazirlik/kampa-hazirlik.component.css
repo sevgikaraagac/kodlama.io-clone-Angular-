@@ -1,0 +1,89 @@
+.container{
+    display: flex;
+    background-color: white;
+    height: 350px;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: center;
+}
+.ctnr{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container-two{
+    display: flex;
+    justify-content: center;
+    background-color: #F5F5F8;
+    height: 250px;
+    padding: 60px 20px;
+}
+.container-img{
+    display: flex;
+    width: 500px;
+    padding: 20px;
+    margin-right: 20px;
+ 
+}
+.conte-img{
+    width: 460px;
+    height: 260px;
+}
+.content{
+    width: 400px;
+    height: 260px;
+}
+.header{
+    font-size: 24px;
+    display:flex;
+}
+.content p{
+    font-size: 18px;
+    color: #36414D;
+}
+.ctnr-two{
+    width: 600px;
+    height: 220px;
+}
+.ctnr-two p{
+    font-size: 18px;
+    color: #36414D;
+}
+.container-three{
+    display: flex;
+    background-color: white;
+    height: 450px;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: center;
+}
+.ctnr-three{
+    display: flex;
+    justify-content: space-between;
+}
+.cart{
+    width: 300px;
+    height: 370px;
+    margin-left: 80px;
+}
+.cart-img{
+    width: 300px;
+    height: 200px;
+}
+.cart-text h5{
+    font-size: 19px;
+}
+.container-for{
+    display: flex;
+    justify-content: center;
+    background-color: #F5F5F8;
+    height: 550px;
+    padding: 20px 20px;
+}
+.ctnr-for h4{
+    font-size: 24px;
+    color: #36414D;
+}
+.ctnr-for p{
+    font-size: 18px;
+}

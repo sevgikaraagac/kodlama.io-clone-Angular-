@@ -1,0 +1,26 @@
+.row-section{
+    background-color: #fafafa;
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px 0px 200px;
+}
+.category{
+    display: flex;
+}
+.sub-section{
+    display:flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: #fafafa;
+    margin: 0px 100px 0px 100px;
+} 
+
+.course-container{
+    display: flex;
+    margin: 25px;
+    padding: 50px 15px;
+    display: flex;
+    
+    flex-wrap: wrap;
+    background-color: #fafafa;
+}

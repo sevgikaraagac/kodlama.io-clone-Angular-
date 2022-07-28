@@ -1,0 +1,25 @@
+.container{
+    width: 100%;
+    display: flex;
+}
+.ctnr{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.search{
+    margin: 5px 0px 5px 5px;
+    padding: 5px 10px 5px 15px;
+    border-bottom-left-radius: 6px;
+    border-top-left-radius: 6px;
+    font-size: 20px;
+    font-weight: 200;
+    border: 1px solid #ccc;
+    
+}
+.btn{
+    border: 1px solid #ccc;
+    background-color: white;
+    height: 35px;
+    
+}

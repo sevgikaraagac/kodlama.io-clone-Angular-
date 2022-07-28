@@ -1,0 +1,23 @@
+.container{
+    padding: 60px 20px;
+    background-color: #F5F5F8;
+    display: flex;
+    justify-content: center;
+}
+.ctnr{
+    width: 590px;
+}
+.span-style{
+    color:rgb(3, 3, 3);
+    background-color:rgb(249, 249, 249);
+    font-size: 17px;
+}
+.soru{
+    color:rgb(54, 65, 77);
+}
+.cevap{
+    color:rgb(54, 65, 77);
+}
+.link-style{
+    color: red;
+}
